@@ -20,6 +20,11 @@ body{
     font-family: 'Changa', sans-serif;
 }
 
+main{
+    display: grid;
+    place-items: center;
+}
+
 .attribution { 
     font-size: 14px;
     text-align: center;
